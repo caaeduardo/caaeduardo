@@ -1,5 +1,5 @@
-<h1 align="center">Carlos Eduardo - Software Developer</h1>
-<p align="center">Software Developer with 1 year of experience specializing in web technologies. Passionate about creating efficient digital solutions using <strong>HTML, CSS, and JavaScript</strong>.</p>
+<h1 align="center">Carlos Eduardo - Development Analyst </h1>
+<p align="center">Development Analyst focused on web technologies and the creation of efficient digital solutions. Specialized in the ASP.NET / C# ecosystem and proficient in front-end frameworks like Angular and JavaScript, with a solid foundation in HTML and CSS to deliver robust and complete applications.</strong>.</p>
 
 &nbsp;
 
